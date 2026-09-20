@@ -408,5 +408,56 @@
       "generated": false
     }
   ],
-  "reaches": []
+  "reaches": [
+    {
+      "sourcePoint": {
+        "id": "a-life-that-matters-p02",
+        "title": "Do not make usefulness the price of belonging"
+      },
+      "target": {
+        "id": "connection-without-losing-yourself",
+        "url": "https://orbiversity.com/connection-without-losing-yourself/",
+        "topic": "Connection Without Losing Yourself"
+      },
+      "relation": "association",
+      "reason": "Belonging need not require unlimited usefulness. Follow that question into a practical way to describe your availability.",
+      "evidence": [
+        {
+          "url": "https://www.penguinrandomhouse.com/books/756179/mattering-by-jennifer-breheny-wallace/",
+          "title": "Mattering — Jennifer Breheny Wallace (2026)"
+        },
+        {
+          "url": "https://www.penguinrandomhouse.com/books/760457/the-balancing-act-by-nedra-glover-tawwab/",
+          "title": "The Balancing Act — Nedra Glover Tawwab (2026)"
+        }
+      ]
+    },
+    {
+      "sourcePoint": {
+        "id": "a-life-that-matters-p07",
+        "title": "Let purpose become a contribution you can sustain"
+      },
+      "target": {
+        "id": "from-intention-to-action",
+        "url": "https://orbiversity.com/from-intention-to-action/",
+        "topic": "From Intention to Action"
+      },
+      "relation": "association",
+      "reason": "A meaningful contribution needs a workable next action. Follow the connection from purpose to planning.",
+      "evidence": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/32881540/",
+          "title": "Rewards of kindness? A meta-analysis of the link between prosociality and well-being"
+        },
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/15018681/",
+          "title": "Adaptive self-regulation of unattainable goals"
+        },
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/15574664/",
+          "title": "The interplay between goal intentions and implementation intentions"
+        }
+      ]
+    }
+  ]
 }
