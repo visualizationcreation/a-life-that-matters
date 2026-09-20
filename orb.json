@@ -1,0 +1,412 @@
+{
+  "content": {
+    "contentVersion": 2,
+    "title": "A Life That Matters",
+    "scope": "Explore being valued, making a contribution and belonging without earning your worth through endless usefulness. Eight readings invite a more grounded sense of purpose.",
+    "visualQuery": "",
+    "intent": {
+      "subject": "A Life That Matters",
+      "direction": "Explore a practical self-development question through evidence and original exercises.",
+      "perspective": "A curious adult choosing small changes in everyday life.",
+      "origins": {
+        "subject": "stated",
+        "direction": "inferred",
+        "perspective": "inferred"
+      }
+    },
+    "form": "explore",
+    "axes": {
+      "x": {
+        "negative": "",
+        "positive": "",
+        "active": false,
+        "reason": "The reading tree expresses broader and deeper questions; no unsupported spatial scale is assigned."
+      },
+      "y": {
+        "negative": "",
+        "positive": "",
+        "active": false,
+        "reason": "The reading tree expresses broader and deeper questions; no unsupported spatial scale is assigned."
+      },
+      "z": {
+        "negative": "",
+        "positive": "",
+        "active": false,
+        "reason": "The reading tree expresses broader and deeper questions; no unsupported spatial scale is assigned."
+      }
+    },
+    "readings": [
+      {
+        "id": "a-life-that-matters-p01",
+        "label": "Mattering includes receiving, not only contributing",
+        "text": "Jennifer Breheny Wallace’s Mattering brings together feeling valued and adding value. That premise is the starting point for this original guide, not a complete account of the book. It opens two different questions: where do you experience being known, and where would you like to make a contribution?\n\nImagine a neighbor who gives gardening advice but also accepts help carrying groceries. Neither exchange is a balance sheet. The relationship makes room for both people to offer something and to need something. Receiving does not erase the contribution already made.\n\nBegin with an ordinary week rather than a grand purpose statement. Notice a conversation in which someone remembered a detail about you, a task that made another person’s day easier, or an invitation you were able to accept. These are observations to explore, not a test of whether your life counts.\n\nTry this — original exercise\n\nDescribe one moment when you felt noticed and one when you contributed. What made each moment meaningful? If either is missing, name a setting where you would like more opportunity.",
+        "kind": "interpretation",
+        "speaker": "",
+        "learn": "",
+        "visualQuery": "",
+        "visualBrief": {
+          "subject": "",
+          "context": "Original explanatory diagram; not a photograph or research data.",
+          "role": "none",
+          "avoid": "Generic generated imagery presented as evidence."
+        },
+        "coordinates": {
+          "x": null,
+          "y": null,
+          "z": null
+        },
+        "placementReason": "The broad question that anchors this authored learning path.",
+        "parent": -1,
+        "next": -1
+      },
+      {
+        "id": "a-life-that-matters-p02",
+        "label": "Do not make usefulness the price of belonging",
+        "text": "Being needed can feel reassuring. It can also become exhausting when usefulness seems to be the only acceptable way to stay connected. This reading offers a distinction to investigate, not a diagnosis of your relationships: can you rest, disagree or ask for help while remaining part of the group?\n\nPicture someone who organizes every gathering. They might love hosting and still wish to attend occasionally without managing the evening. Sharing the work could preserve a valued tradition while giving its organizer a different experience of belonging.\n\nSeparate what has actually happened from what you fear would happen if you stepped back. Other people may need clear notice and a workable handover. Real responsibilities matter; so does the possibility of redistributing them. A smaller role can be an experiment in participation, rather than a declaration that the relationship is over.\n\nTry this — original exercise\n\nChoose one recurring role. Write what you enjoy, what it costs, and one responsibility you could ask to share. Keep observed reactions separate from predicted reactions.",
+        "kind": "interpretation",
+        "speaker": "",
+        "learn": "",
+        "visualQuery": "",
+        "visualBrief": {
+          "subject": "",
+          "context": "Original explanatory diagram; not a photograph or research data.",
+          "role": "none",
+          "avoid": "Generic generated imagery presented as evidence."
+        },
+        "coordinates": {
+          "x": null,
+          "y": null,
+          "z": null
+        },
+        "placementReason": "A more specific practical question within its named broader reading.",
+        "parent": 0,
+        "next": -1
+      },
+      {
+        "id": "a-life-that-matters-p03",
+        "label": "Notice the small connections already around you",
+        "text": "Research by Gillian Sandstrom and Elizabeth Dunn found associations between interactions with acquaintances and daily well-being. That does not mean every stranger wants a conversation, or that casual contact can replace close relationships. It suggests that the edges of a social world can be worth noticing.\n\nConsider the person you recognize at a library, the familiar face in a class or the neighbor who uses the same walking route. A brief greeting may be enough. There is no requirement to turn every encounter into friendship or to perform cheerfulness when you do not feel it.\n\nChoose a setting that is accessible and comfortable for you. Respect a short answer, headphones or other signs that someone would prefer space. The invitation here is to become a little more attentive to ordinary contact, while allowing both people to choose how much interaction happens.\n\nTry this — original exercise\n\nAt one recurring place, notice an opportunity for a respectful greeting. Afterwards, record what happened without rating your performance or assuming you know the other person’s feelings.",
+        "kind": "interpretation",
+        "speaker": "",
+        "learn": "",
+        "visualQuery": "",
+        "visualBrief": {
+          "subject": "",
+          "context": "Original explanatory diagram; not a photograph or research data.",
+          "role": "none",
+          "avoid": "Generic generated imagery presented as evidence."
+        },
+        "coordinates": {
+          "x": null,
+          "y": null,
+          "z": null
+        },
+        "placementReason": "A more specific practical question within its named broader reading.",
+        "parent": 0,
+        "next": -1
+      },
+      {
+        "id": "a-life-that-matters-p04",
+        "label": "Offer help that leaves room for choice",
+        "text": "A large meta-analysis found a modest association between prosocial behavior and well-being, with substantial variation across studies. It does not establish that doing more for others always makes an individual happier. Help has a context: what is wanted, who decides, and what the helper can reasonably sustain.\n\nA useful offer can be small and specific. “I can proofread two pages on Thursday” gives someone more information than “Anything you need.” It also leaves space for a different request or a no. An offer becomes harder to receive when accepting it creates an unspoken debt.\n\nAsk before taking over. The person closest to a problem may value independence, privacy or a kind of support you have not considered. Contribution is not measured only by visible effort. Sometimes the helpful act is to listen, provide a resource or respect the answer you receive.\n\nTry this — original exercise\n\nDraft one bounded offer: what you can do, when, and how much. Add a genuine option to decline. Check whether you can make the offer without expecting a particular response.",
+        "kind": "interpretation",
+        "speaker": "",
+        "learn": "",
+        "visualQuery": "",
+        "visualBrief": {
+          "subject": "",
+          "context": "Original explanatory diagram; not a photograph or research data.",
+          "role": "none",
+          "avoid": "Generic generated imagery presented as evidence."
+        },
+        "coordinates": {
+          "x": null,
+          "y": null,
+          "z": null
+        },
+        "placementReason": "A more specific practical question within its named broader reading.",
+        "parent": 0,
+        "next": -1
+      },
+      {
+        "id": "a-life-that-matters-p05",
+        "label": "Tell someone the effect they had",
+        "text": "Appreciation can become more personal when it names an actual moment. “You remembered my interview and checked in afterwards” tells someone what you noticed. “It helped me feel less alone while I waited” describes its effect. Neither sentence requires a sweeping judgment about the person.\n\nThis is an original communication exercise inspired by the collection’s theme of mattering, not a tested formula for changing a relationship. Accuracy matters more than eloquence. Avoid attributing motives you cannot know, and do not use gratitude to request a favor in the next breath.\n\nYou can keep the note private, send a short message or say it in conversation. There is no obligation to contact someone when doing so would be unwelcome or complicated. The reflection still has value as a record of what support looks like to you and what you might want to recognize more often.\n\nTry this — original exercise\n\nWrite three sentences: what happened, what you appreciated, and its effect on you. Remove exaggerations. Decide freely whether to share the note or keep it for yourself.",
+        "kind": "interpretation",
+        "speaker": "",
+        "learn": "",
+        "visualQuery": "",
+        "visualBrief": {
+          "subject": "",
+          "context": "Original explanatory diagram; not a photograph or research data.",
+          "role": "none",
+          "avoid": "Generic generated imagery presented as evidence."
+        },
+        "coordinates": {
+          "x": null,
+          "y": null,
+          "z": null
+        },
+        "placementReason": "A more specific practical question within its named broader reading.",
+        "parent": 3,
+        "next": -1
+      },
+      {
+        "id": "a-life-that-matters-p06",
+        "label": "Build a map with more than one kind of support",
+        "text": "A social map need not rank people by importance. Instead, it can show the different contexts in which connection happens: companionship, practical help, shared interests, learning or a place to contribute. One person may appear in several areas; some areas may currently be empty.\n\nThe research linked here offers context about relatedness and everyday contact. It does not prescribe a required number of friends or prove that this mapping exercise improves well-being. Use the map to notice possibilities, not to score your social life.\n\nResources and circumstances shape what is available. Transport, money, caregiving, disability and work schedules can make participation difficult. An empty area is information about an unmet opportunity, not evidence of personal failure. A possible next step might be finding an accessible recurring activity, asking about remote attendance or reconnecting with a person who has welcomed contact before.\n\nTry this — original exercise\n\nDraw four areas: company, practical help, shared interests and learning. Add people or places only where the connection is real. Choose one small, feasible opportunity to explore.",
+        "kind": "interpretation",
+        "speaker": "",
+        "learn": "",
+        "visualQuery": "",
+        "visualBrief": {
+          "subject": "",
+          "context": "Original explanatory diagram; not a photograph or research data.",
+          "role": "none",
+          "avoid": "Generic generated imagery presented as evidence."
+        },
+        "coordinates": {
+          "x": null,
+          "y": null,
+          "z": null
+        },
+        "placementReason": "A more specific practical question within its named broader reading.",
+        "parent": 2,
+        "next": -1
+      },
+      {
+        "id": "a-life-that-matters-p07",
+        "label": "Let purpose become a contribution you can sustain",
+        "text": "Purpose can be approached through a modest commitment rather than a permanent life mission. You might maintain a neighborhood resource list, help one person learn a skill or contribute to a project for a month. The relevant questions are whether the contribution is wanted, whether it matters to you and whether its cost is workable.\n\nResearch on helping and on adjusting goals provides context, not a prescription for a particular role. Your useful experiment needs its own boundaries: a time allowance, a clear recipient or purpose, and a date to review it. Enthusiasm on the first day is not the only measure.\n\nLeave room for interests that are enjoyable without becoming service. A hobby does not need to justify itself through productivity. When a commitment stops fitting, changing its scope can be a responsible decision, particularly when you communicate clearly and arrange any necessary handover.\n\nTry this — original exercise\n\nChoose a contribution for one month. Specify the time you can offer, how you will check that it is welcome, and a review date. Name one activity you will keep simply for enjoyment.",
+        "kind": "interpretation",
+        "speaker": "",
+        "learn": "",
+        "visualQuery": "",
+        "visualBrief": {
+          "subject": "",
+          "context": "Original explanatory diagram; not a photograph or research data.",
+          "role": "none",
+          "avoid": "Generic generated imagery presented as evidence."
+        },
+        "coordinates": {
+          "x": null,
+          "y": null,
+          "z": null
+        },
+        "placementReason": "A more specific practical question within its named broader reading.",
+        "parent": 3,
+        "next": -1
+      },
+      {
+        "id": "a-life-that-matters-p08",
+        "label": "Knowledge floor: a meaningful week is not a universal formula",
+        "text": "The studies in this guide describe patterns across particular samples and situations. An association between connection, helping and well-being cannot tell you exactly what your next week should contain. People differ, opportunities differ, and the same activity can have a different meaning at another time.\n\nYou can still learn from a small personal observation. Notice three moments when connection felt welcome and one moment when a limit protected your capacity. Record the circumstances: who was involved, what was asked and whether you had a choice. Avoid turning a single good or difficult encounter into a verdict about an entire relationship.\n\nThis is a personal knowledge gap to investigate, not a claim that the scientific field has reached its boundary. The next useful decision may be to repeat an activity, ask for a different arrangement or seek support that is currently missing.\n\nTry this — original exercise\n\nAt the end of a week, name one connection to nurture, one request to make and one limit to keep. Explain each choice using an observed moment rather than a general label.",
+        "kind": "question",
+        "speaker": "",
+        "learn": "",
+        "visualQuery": "",
+        "visualBrief": {
+          "subject": "",
+          "context": "Original explanatory diagram; not a photograph or research data.",
+          "role": "none",
+          "avoid": "Generic generated imagery presented as evidence."
+        },
+        "coordinates": {
+          "x": null,
+          "y": null,
+          "z": null
+        },
+        "placementReason": "A more specific practical question within its named broader reading.",
+        "parent": 5,
+        "next": -1
+      }
+    ],
+    "edges": [
+      {
+        "from": "a-life-that-matters-p01",
+        "to": "a-life-that-matters-p02",
+        "relation": "elaborates",
+        "reason": "This reading develops a more specific question within Mattering includes receiving, not only contributing.",
+        "basis": "interpretation"
+      },
+      {
+        "from": "a-life-that-matters-p01",
+        "to": "a-life-that-matters-p03",
+        "relation": "elaborates",
+        "reason": "This reading develops a more specific question within Mattering includes receiving, not only contributing.",
+        "basis": "interpretation"
+      },
+      {
+        "from": "a-life-that-matters-p01",
+        "to": "a-life-that-matters-p04",
+        "relation": "elaborates",
+        "reason": "This reading develops a more specific question within Mattering includes receiving, not only contributing.",
+        "basis": "interpretation"
+      },
+      {
+        "from": "a-life-that-matters-p04",
+        "to": "a-life-that-matters-p05",
+        "relation": "elaborates",
+        "reason": "This reading develops a more specific question within Offer help that leaves room for choice.",
+        "basis": "interpretation"
+      },
+      {
+        "from": "a-life-that-matters-p03",
+        "to": "a-life-that-matters-p06",
+        "relation": "elaborates",
+        "reason": "This reading develops a more specific question within Notice the small connections already around you.",
+        "basis": "interpretation"
+      },
+      {
+        "from": "a-life-that-matters-p04",
+        "to": "a-life-that-matters-p07",
+        "relation": "elaborates",
+        "reason": "This reading develops a more specific question within Offer help that leaves room for choice.",
+        "basis": "interpretation"
+      },
+      {
+        "from": "a-life-that-matters-p06",
+        "to": "a-life-that-matters-p08",
+        "relation": "elaborates",
+        "reason": "This reading develops a more specific question within Build a map with more than one kind of support.",
+        "basis": "interpretation"
+      }
+    ],
+    "speakers": [],
+    "seam": {
+      "title": "",
+      "text": "",
+      "readings": []
+    },
+    "theme": {
+      "accent": "mist",
+      "atmosphere": "The shared Orbiversity pale blue studio."
+    },
+    "courseOrder": [],
+    "neighbors": [],
+    "sources": [
+      {
+        "title": "Mattering — Jennifer Breheny Wallace (2026)",
+        "url": "https://www.penguinrandomhouse.com/books/756179/mattering-by-jennifer-breheny-wallace/",
+        "publisher": "Portfolio",
+        "readings": [
+          0,
+          1,
+          4
+        ]
+      },
+      {
+        "title": "Social Interactions and Well-Being: The Surprising Power of Weak Ties",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24769739/",
+        "publisher": "Sandstrom & Dunn · Personality and Social Psychology Bulletin, 2014",
+        "readings": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "title": "Rewards of kindness? A meta-analysis of the link between prosociality and well-being",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32881540/",
+        "publisher": "Hui et al. · Psychological Bulletin, 2020",
+        "readings": [
+          3,
+          6,
+          7
+        ]
+      },
+      {
+        "title": "Self-Determination Theory and the Facilitation of Intrinsic Motivation, Social Development, and Well-Being",
+        "url": "https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf",
+        "publisher": "Ryan & Deci · American Psychologist, 2000",
+        "readings": [
+          5
+        ]
+      },
+      {
+        "title": "Adaptive self-regulation of unattainable goals",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15018681/",
+        "publisher": "Wrosch et al. · Personality and Social Psychology Bulletin, 2003",
+        "readings": [
+          6
+        ]
+      }
+    ]
+  },
+  "language": "en",
+  "museum": {
+    "attribution": "anonymous",
+    "category": "Self-Development",
+    "tags": [
+      "self-development",
+      "personal growth",
+      "purpose"
+    ],
+    "library": [
+      {
+        "title": "Mattering — Jennifer Breheny Wallace (2026)",
+        "url": "https://www.penguinrandomhouse.com/books/756179/mattering-by-jennifer-breheny-wallace/",
+        "type": "Book / publisher overview",
+        "publisher": "Portfolio",
+        "nodes": [
+          "a-life-that-matters-p01",
+          "a-life-that-matters-p02",
+          "a-life-that-matters-p05"
+        ]
+      },
+      {
+        "title": "Social Interactions and Well-Being: The Surprising Power of Weak Ties",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24769739/",
+        "type": "Research",
+        "publisher": "Sandstrom & Dunn · Personality and Social Psychology Bulletin, 2014",
+        "nodes": [
+          "a-life-that-matters-p03",
+          "a-life-that-matters-p06",
+          "a-life-that-matters-p08"
+        ]
+      },
+      {
+        "title": "Rewards of kindness? A meta-analysis of the link between prosociality and well-being",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32881540/",
+        "type": "Research",
+        "publisher": "Hui et al. · Psychological Bulletin, 2020",
+        "nodes": [
+          "a-life-that-matters-p04",
+          "a-life-that-matters-p07",
+          "a-life-that-matters-p08"
+        ]
+      },
+      {
+        "title": "Self-Determination Theory and the Facilitation of Intrinsic Motivation, Social Development, and Well-Being",
+        "url": "https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf",
+        "type": "Research",
+        "publisher": "Ryan & Deci · American Psychologist, 2000",
+        "nodes": [
+          "a-life-that-matters-p06"
+        ]
+      },
+      {
+        "title": "Adaptive self-regulation of unattainable goals",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15018681/",
+        "type": "Research",
+        "publisher": "Wrosch et al. · Personality and Social Psychology Bulletin, 2003",
+        "nodes": [
+          "a-life-that-matters-p07"
+        ]
+      }
+    ],
+    "audio": []
+  },
+  "readingImages": [
+    {
+      "src": "https://orbiversity.com/a-life-that-matters/diagram.png",
+      "source": "https://orbiversity.com/a-life-that-matters/diagram.svg",
+      "title": "A Life That Matters — a practice map",
+      "caption": "Original explanatory diagram for this ORB. A suggested reflection sequence, not research data or a book illustration.",
+      "credit": "Orbiversity · original diagram authored with Codex",
+      "node": null,
+      "generated": false
+    }
+  ],
+  "reaches": []
+}
